@@ -40,8 +40,6 @@ int main(void)
 					ultra_triger();
 					Car_Forward_Speed2();
 					Car_Forward_Speed1();
-					Car_Forward_Speed1();
-					Car_Forward_Speed1();
 				    }
 				if (object==1)
 				{
